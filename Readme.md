@@ -1,11 +1,11 @@
-#To run A*
+<h3>__To run A*:__</h3>
 python A-star Move_Robot.py
 
 
-#To run ADA*
+<h3>__To run ADA*:__</h3>
 python ADA_star Move_Robot.py
 
 
-#To run BI2RRT*
+<h3>__To run BI2RRT*:__</h3>
 python BI_RRT_star Move_Robot.py
 
